@@ -1,0 +1,23 @@
+body{
+    background-color: #2B2B2B;
+    color: white;
+}
+.head{
+    background-color: orange;
+    padding: 20px;
+    width: 30%;
+    border-radius: 10px;
+    color: white;
+}
+label{
+    background-color:white;
+    color: lightgreen;
+    padding: 10px;
+    border-radius: 10px;
+}
+#Camera , #result
+{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
